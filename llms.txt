@@ -6,7 +6,7 @@
 - Name: Hungry Eyes Jamaican Restaurant & Bar (Yaad Vibes Bar & Grill)
 - Address: 201 Towne Center W Blvd, Suite 707, Richmond, VA 23233 (Short Pump, West Broad Village area)
 - Phone: (804) 664-2283
-- Website: https://hungryeyesrva.com/
+- Website: https://hungry-eyes-jamaican-restaurant.netlify.app/
 - Map: https://www.google.com/maps/search/?api=1&query=Hungry+Eyes+Jamaican+Restaurant+%26+Bar+201+Towne+Center+W+Blvd+Suite+707+Richmond+VA+23233
 
 ## Hours (Eastern Time)
@@ -63,7 +63,7 @@ Jamaican, Caribbean. Restaurant and bar.
 - Is it family-run? Yes.
 
 ## Pages
-- Home: https://hungryeyesrva.com/
-- Menu: https://hungryeyesrva.com/menu.html
-- Yaad Vibes Fridays (karaoke and live DJ): https://hungryeyesrva.com/yaad-vibes.html
-- Hours & directions: https://hungryeyesrva.com/visit.html
+- Home: https://hungry-eyes-jamaican-restaurant.netlify.app/
+- Menu: https://hungry-eyes-jamaican-restaurant.netlify.app/menu.html
+- Yaad Vibes Fridays (karaoke and live DJ): https://hungry-eyes-jamaican-restaurant.netlify.app/yaad-vibes.html
+- Hours & directions: https://hungry-eyes-jamaican-restaurant.netlify.app/visit.html

@@ -13,4 +13,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://hungryeyesrva.com/sitemap.xml
+Sitemap: https://hungry-eyes-jamaican-restaurant.netlify.app/sitemap.xml
