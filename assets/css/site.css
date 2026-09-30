@@ -615,3 +615,8 @@ button { font: inherit; }
   .parallax img { transform: none !important; }
   .eq span { transform: scaleY(.6); }
 }
+
+/* Fix (30 Sep 2026): stable scrolling on phones. The page can only move up and down; sideways panning is off.
+   Only the viewport (html) clips sideways overflow; body is left unclipped so iPhone Safari keeps drawing the whole page. */
+html { overflow-x: hidden; touch-action: pan-y pinch-zoom; }
+body { overflow-x: visible !important; }
